@@ -8,6 +8,6 @@ For those of you that are reading this, I recommend you offload your ArcOS Data 
 
 I want to thank everyone for being a part of this amazing journey, and I hope to talk to all of you soon.
 
-## ArcOS is set to shut down on October 1st, 2024. You have until then to offload your data.
+### ArcOS is set to shut down on October 1st, 2024. You have until then to offload your data.
 
--# ArcOS source will become public once we're shut down
+> ArcOS source will become public once we're shut down
